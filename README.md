@@ -3,7 +3,7 @@
 ## Instruções Gerais
 
 ### Primeira Etapa
-Uma ´unica rodada, um jogador e a mesa. A cada rodada o programa
+Uma única rodada, um jogador e a mesa. A cada rodada o programa
 pergunta se o jogador quer para ou continuar. Se quiser continuar, recebe uma carta
 aleat´oria. Abaixo, um exemplo de sa´ıda.
 
